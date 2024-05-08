@@ -1,0 +1,24 @@
+.main-img{
+    width: 216px;
+    height: 270px;
+}
+
+
+
+
+.main-img.-logo{
+    height: 315px;
+    width: 315px;
+    
+}
+
+.main-img.-flavors{
+    display: flex;
+    justify-content: center;
+
+}
+
+.main-img.-imgflavors{
+    padding-left: 50px;
+    padding-right: 50px;
+}
